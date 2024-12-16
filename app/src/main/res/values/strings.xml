@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">FinApp</string>
+    <string name="google_maps_key" translatable="false">AIzaSyDDy7R69oqRIW3HsCh_LgRAk1ayHUHL_Sg</string>
+
+</resources>
